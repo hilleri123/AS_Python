@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editors and tooling
+.idea/
+.vscode/
+.cursorignore
+.cursorindexingignore
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Presentation builders (local only)
+lectures/_build/
+
+# Source examples, not course materials
+*.docx
+*.doc
+*.ipynb
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
