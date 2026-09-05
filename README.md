@@ -19,12 +19,12 @@
 
 Две темы, без которых остальное не складывается: **циклы** и **рекурсия**. Python здесь — способ записать на «листе» то же, что в математике: переменная, присвоить, повторить шаг, развернуть рекуррентность.
 
-Презентации (на пару — PPTX; HTML — запасной вариант в браузере):
+Презентации:
 
-- [00. Организация](lectures/00-organizaciya.pptx) · [html](lectures/00-organizaciya.html)
-- [01. Python как математика](lectures/01-python-kak-matematika.pptx) · [html](lectures/01-python-kak-matematika.html) — ЕГЭ на бланке, затем те же шаги в коде; строки; дата
-- [02. Циклы](lectures/02-cikly.pptx) · [html](lectures/02-cikly.html)
-- [03. Рекурсия](lectures/03-rekursiya.pptx) · [html](lectures/03-rekursiya.html)
+- [00. Организация](lectures/00-organizaciya.pptx)
+- [01. Python как математика](lectures/01-python-kak-matematika.pptx)
+- [02. Циклы](lectures/02-cikly.pptx)
+- [03. Рекурсия](lectures/03-rekursiya.pptx)
 
 Как показывать на паре: [lectures/README.md](lectures/README.md).
 

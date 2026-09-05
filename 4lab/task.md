@@ -32,7 +32,7 @@
 
 Цикл партии (`while` игра не кончилась) тоже обязателен — как в лабораторной 1.
 
-Лекции: [02 — Циклы](../lectures/02-cikly.html), [03 — Рекурсия](../lectures/03-rekursiya.html).
+Лекции: [02 — Циклы](../lectures/02-cikly.pptx), [03 — Рекурсия](../lectures/03-rekursiya.pptx).
 
 ---
 

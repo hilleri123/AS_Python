@@ -22,8 +22,12 @@ ENV/
 .coverage
 htmlcov/
 
-# Presentation builders (local only)
+# Presentation builders and HTML slides (local only; repo has PPTX)
 lectures/_build/
+lectures/*.html
+lectures/slides.css
+lectures/slides.js
+lectures/scheme-sdacha.*
 
 # Source examples, not course materials
 *.docx
