@@ -39,7 +39,7 @@
 | 3 | посев камней по кругу «пока камни не кончились» |
 | 4 | проверка, что все лампы выключены; переключение соседей |
 
-Рекурсия здесь не требуется. Лекции: [01 — Python как математика](../lectures/01-python-kak-matematika.pptx), [02 — Циклы](../lectures/02-cikly.pptx).
+Рекурсия здесь не требуется. Лекции: [01 — Python как математика](../lectures/01-python-kak-matematika.pptx), [02 — Списки](../lectures/02-spiski-slovari-stroki.pptx), [03 — Циклы](../lectures/03-cikly.pptx).
 
 ---
 

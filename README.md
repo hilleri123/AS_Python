@@ -23,8 +23,11 @@
 
 - [00. Организация](lectures/00-organizaciya.pptx)
 - [01. Python как математика](lectures/01-python-kak-matematika.pptx)
-- [02. Циклы](lectures/02-cikly.pptx)
-- [03. Рекурсия](lectures/03-rekursiya.pptx)
+- [02. Списки, словари, строки](lectures/02-spiski-slovari-stroki.pptx)
+- [03. Циклы](lectures/03-cikly.pptx)
+- 04. Функции — следующей
+- [05. Рекурсия](lectures/05-rekursiya.pptx)
+- 06. Методы — следующей
 
 Как показывать на паре: [lectures/README.md](lectures/README.md).
 

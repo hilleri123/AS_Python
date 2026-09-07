@@ -37,6 +37,8 @@ lectures/scheme-sdacha.*
 # Jupyter
 .ipynb_checkpoints
 
-# OS
+# OS and office lock files
 .DS_Store
 Thumbs.db
+.~lock.*
+lectures/.~lock.*
